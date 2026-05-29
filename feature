@@ -1,2 +1,3 @@
 console.log('woow');
-conflict 2;
+conflict 1;
+
