@@ -1,2 +1,2 @@
 console.log('woow');
-commit 3
+conflict 2;
