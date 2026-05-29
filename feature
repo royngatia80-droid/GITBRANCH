@@ -1,3 +1,3 @@
 console.log('woow');
-conflict 1;
+feature 3;
 
